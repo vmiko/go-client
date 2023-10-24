@@ -7,11 +7,11 @@ import (
 	"testing"
 
 	"github.com/go-openapi/runtime"
-	"github.com/goharbor/go-client/pkg/harbor"
-	"github.com/goharbor/go-client/pkg/harbor/test"
-	v2client "github.com/goharbor/go-client/pkg/sdk/v2.0/client"
-	"github.com/goharbor/go-client/pkg/sdk/v2.0/client/health"
 	"github.com/stretchr/testify/assert"
+	"github.com/vmiko/go-client/pkg/harbor"
+	"github.com/vmiko/go-client/pkg/harbor/test"
+	v2client "github.com/vmiko/go-client/pkg/sdk/v2.0/client"
+	"github.com/vmiko/go-client/pkg/sdk/v2.0/client/health"
 )
 
 var (

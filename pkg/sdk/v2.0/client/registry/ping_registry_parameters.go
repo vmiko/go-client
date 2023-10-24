@@ -15,7 +15,7 @@ import (
 	cr "github.com/go-openapi/runtime/client"
 	"github.com/go-openapi/strfmt"
 
-	"github.com/goharbor/go-client/pkg/sdk/v2.0/models"
+	"github.com/vmiko/go-client/pkg/sdk/v2.0/models"
 )
 
 // NewPingRegistryParams creates a new PingRegistryParams object,

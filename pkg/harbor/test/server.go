@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"net/http/httptest"
 
-	"github.com/goharbor/go-client/pkg/sdk/v2.0/models"
+	"github.com/vmiko/go-client/pkg/sdk/v2.0/models"
 )
 
 const (
